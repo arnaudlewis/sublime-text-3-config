@@ -1,0 +1,3263 @@
+{
+	"folder_history":
+	[
+		"/development/workspace/prismic-cli",
+		"/development/workspace/prismic-jskit-v4",
+		"/development/workspace/wroom",
+		"/development/workspace/base_project",
+		"/development/workspace/nodejs-starter",
+		"/development/workspace/nodejs-blog",
+		"/development/workspace/prismic-nodejs",
+		"/development/workspace/reactjs-starter",
+		"/development/workspace/angular2-starter",
+		"/development/workspace/toto",
+		"/development/workspace/scrollx",
+		"/development/workspace"
+	],
+	"last_version": 3126,
+	"last_window_id": 24,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 117.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 471.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/development/workspace/wroom/conf/routes",
+				"/development/workspace/wroom/app/controllers/Common.scala",
+				"/development/workspace/wroom/app/assets/javascripts/app/utils.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/documents.js",
+				"/development/workspace/wroom/app/controllers/Application.scala",
+				"/development/workspace/wroom/app/assets/javascripts/app/filters.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/application.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/navigation.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/communication.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/documents/FilterValues.jsx",
+				"/development/workspace/wroom/subprojects/common/app/models/Onboarding.scala",
+				"/development/workspace/wroom/app/assets/javascripts/app/documents/NavState.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/editor/editor.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/documents/TextSearch.jsx",
+				"/development/workspace/wroom/app/assets/javascripts/app/documents/FilterBar.jsx",
+				"/development/workspace/wroom/app/assets/javascripts/app/documents/Filter.jsx",
+				"/development/workspace/wroom/subprojects/wroom-ci/conf/application.conf",
+				"/development/workspace/nodejs-starter/prismic-configuration.js",
+				"/development/workspace/nodejs-starter/.gitignore",
+				"/development/workspace/nodejs-starter/app.js",
+				"/development/workspace/nodejs-starter/public/javascript/vendors/onboarding.js",
+				"/development/workspace/nodejs-starter/package.json",
+				"/development/workspace/nodejs-starter/onboarding.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/onboarding.js",
+				"/development/workspace/wroom/app/assets/stylesheets/onboarding.styl"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 95.0,
+				"where_history":
+				[
+					"/development/workspace/wroom",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"scrollx",
+					"loading",
+					"height: calc(100% - 6",
+					"closeable",
+					"closable",
+					"getSelection",
+					"replacestate",
+					"reloadable",
+					"aside",
+					"media",
+					"aside",
+					"api.cache.expire",
+					"org",
+					"\"baked\"",
+					"features",
+					"rateLimits",
+					"rateLimit",
+					"value",
+					"filterbar",
+					"data('filters",
+					"navigate",
+					"NavState.asParams",
+					"newState",
+					"aspara",
+					"applyFiltersParams",
+					"avState.actions.reset",
+					"store.reset",
+					"applyFiltersParams",
+					"setFilters",
+					"setSearch",
+					"filtersChanged",
+					"navigate",
+					"Filters",
+					"unresolved address exception",
+					"seed",
+					"tototo",
+					"DEFAULT_ENDPOINT",
+					"validateOnboardingSDK",
+					"validateOnboardingCLI",
+					"})\n",
+					"btn-tem",
+					"validateOnboardingTemplate",
+					"validateOnboarding",
+					"createwri"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 37.0
+			},
+			"menu_visible": true,
+			"output.doc":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"app/controllers/Prismic.js"
+					],
+					[
+						"pris",
+						"app/controllers/Prismic.js"
+					],
+					[
+						"layou",
+						"views/layout.pug"
+					],
+					[
+						"medias",
+						"app/assets/stylesheets/medias.styl"
+					],
+					[
+						"experim",
+						"app/assets/stylesheets/experiments.styl"
+					],
+					[
+						"masks",
+						"app/assets/stylesheets/masks.styl"
+					],
+					[
+						"document.st",
+						"app/assets/stylesheets/documents.styl"
+					],
+					[
+						"customerst",
+						"app/assets/stylesheets/web/slices/homepage/customersTestimonials.scss"
+					],
+					[
+						"testi",
+						"app/views/web/components/customersTestimonials.scala.html"
+					],
+					[
+						"customer",
+						"app/views/website/customers.scala.html"
+					],
+					[
+						"lib",
+						"app/assets/stylesheets/lib.styl"
+					],
+					[
+						"navst",
+						"app/assets/javascripts/app/documents/NavState.js"
+					],
+					[
+						"textsea",
+						"app/assets/javascripts/app/documents/TextSearch.jsx"
+					],
+					[
+						"navstate",
+						"app/assets/javascripts/app/documents/NavState.js"
+					],
+					[
+						"navigation",
+						"app/assets/javascripts/app/navigation.js"
+					],
+					[
+						"maskbuild",
+						"app/assets/stylesheets/maskbuilder.styl"
+					],
+					[
+						"maskbui",
+						"app/views/maskbuilder/builder.scala.html"
+					],
+					[
+						"docun",
+						"app/assets/stylesheets/documents.styl"
+					],
+					[
+						"contex",
+						"app/assets/stylesheets/content/contextual-actions.styl"
+					],
+					[
+						"color",
+						"app/assets/stylesheets/website/colors.styl"
+					],
+					[
+						"header",
+						"app/views/editor/header.scala.html"
+					],
+					[
+						"rate",
+						"app/utils/RateLimiter.scala"
+					],
+					[
+						"appli",
+						"subprojects/wroom-ci/conf/application.conf"
+					],
+					[
+						"ratelimit",
+						"app/utils/RateLimiter.scala"
+					],
+					[
+						"wroo",
+						"subprojects/common/app/Wroom.scala"
+					],
+					[
+						"applica",
+						"conf/application.conf"
+					],
+					[
+						"application",
+						"subprojects/wroom-ci/conf/application.conf"
+					],
+					[
+						"filterjsx",
+						"app/assets/javascripts/app/documents/Filter.jsx"
+					],
+					[
+						"filter",
+						"app/assets/javascripts/app/filters.js"
+					],
+					[
+						"navsta",
+						"app/assets/javascripts/app/documents/NavState.js"
+					],
+					[
+						"applic",
+						"app/assets/javascripts/app/application.js"
+					],
+					[
+						"docu",
+						"app/assets/javascripts/app/documents.js"
+					],
+					[
+						"text",
+						"app/assets/javascripts/app/documents/TextSearch.jsx"
+					],
+					[
+						"textse",
+						"app/assets/javascripts/app/documents/TextSearch.jsx"
+					],
+					[
+						"document",
+						"app/assets/javascripts/app/documents.js"
+					],
+					[
+						"applic.js",
+						"app/assets/javascripts/app/application.js"
+					],
+					[
+						"naviga",
+						"app/assets/javascripts/app/navigation.js"
+					],
+					[
+						"appl",
+						"app/controllers/Application.scala"
+					],
+					[
+						"route",
+						"conf/routes"
+					],
+					[
+						"onbo",
+						"subprojects/common/app/models/Onboarding.scala"
+					],
+					[
+						"communic",
+						"app/assets/javascripts/app/communication.js"
+					],
+					[
+						"onboarding",
+						"app/assets/javascripts/app/onboarding.js"
+					],
+					[
+						"routes",
+						"conf/routes"
+					],
+					[
+						"communi",
+						"app/assets/javascripts/app/communication.js"
+					],
+					[
+						"on",
+						"app/assets/stylesheets/onboarding.styl"
+					],
+					[
+						"onboardin",
+						"app/assets/stylesheets/onboarding.styl"
+					],
+					[
+						"application.scala",
+						"app/controllers/Application.scala"
+					],
+					[
+						"repositore",
+						"subprojects/common/app/RepositoryRepo.scala"
+					],
+					[
+						"onboarding.sc",
+						"subprojects/common/app/models/Onboarding.scala"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 304.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/development/workspace/wroom/package.json",
+					"settings":
+					{
+						"buffer_size": 1341,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 117.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 471.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/development/workspace/wroom",
+				"/development/workspace/wroom/app",
+				"/development/workspace/wroom/app/assets",
+				"/development/workspace/wroom/app/assets/stylesheets",
+				"/development/workspace/wroom/app/assets/stylesheets/web",
+				"/development/workspace/wroom/app/views/web"
+			],
+			"file_history":
+			[
+				"/development/workspace/wroom/conf/routes",
+				"/development/workspace/wroom/app/controllers/Common.scala",
+				"/development/workspace/wroom/app/assets/javascripts/app/utils.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/documents.js",
+				"/development/workspace/wroom/app/controllers/Application.scala",
+				"/development/workspace/wroom/app/assets/javascripts/app/filters.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/application.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/navigation.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/communication.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/documents/FilterValues.jsx",
+				"/development/workspace/wroom/subprojects/common/app/models/Onboarding.scala",
+				"/development/workspace/wroom/app/assets/javascripts/app/documents/NavState.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/editor/editor.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/documents/TextSearch.jsx",
+				"/development/workspace/wroom/app/assets/javascripts/app/documents/FilterBar.jsx",
+				"/development/workspace/wroom/app/assets/javascripts/app/documents/Filter.jsx",
+				"/development/workspace/wroom/subprojects/wroom-ci/conf/application.conf",
+				"/development/workspace/nodejs-starter/prismic-configuration.js",
+				"/development/workspace/nodejs-starter/.gitignore",
+				"/development/workspace/nodejs-starter/app.js",
+				"/development/workspace/nodejs-starter/public/javascript/vendors/onboarding.js",
+				"/development/workspace/nodejs-starter/package.json",
+				"/development/workspace/nodejs-starter/onboarding.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/onboarding.js",
+				"/development/workspace/wroom/app/assets/stylesheets/onboarding.styl"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 95.0,
+				"where_history":
+				[
+					"/development/workspace/wroom",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"loading",
+					"height: calc(100% - 6",
+					"closeable",
+					"closable",
+					"getSelection",
+					"replacestate",
+					"reloadable",
+					"aside",
+					"media",
+					"aside",
+					"api.cache.expire",
+					"org",
+					"\"baked\"",
+					"features",
+					"rateLimits",
+					"rateLimit",
+					"value",
+					"filterbar",
+					"data('filters",
+					"navigate",
+					"NavState.asParams",
+					"newState",
+					"aspara",
+					"applyFiltersParams",
+					"avState.actions.reset",
+					"store.reset",
+					"applyFiltersParams",
+					"setFilters",
+					"setSearch",
+					"filtersChanged",
+					"navigate",
+					"Filters",
+					"unresolved address exception",
+					"seed",
+					"tototo",
+					"DEFAULT_ENDPOINT",
+					"validateOnboardingSDK",
+					"validateOnboardingCLI",
+					"})\n",
+					"btn-tem",
+					"validateOnboardingTemplate",
+					"validateOnboarding",
+					"createwri"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/development/workspace/wroom"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/development/workspace/wroom/package.json",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 1341,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 37.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.doc":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "1 501 285 640 502 0 0 1680 1050 ",
+			"project": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"package.json"
+					],
+					[
+						"medias",
+						"app/assets/stylesheets/medias.styl"
+					],
+					[
+						"experim",
+						"app/assets/stylesheets/experiments.styl"
+					],
+					[
+						"masks",
+						"app/assets/stylesheets/masks.styl"
+					],
+					[
+						"document.st",
+						"app/assets/stylesheets/documents.styl"
+					],
+					[
+						"customerst",
+						"app/assets/stylesheets/web/slices/homepage/customersTestimonials.scss"
+					],
+					[
+						"testi",
+						"app/views/web/components/customersTestimonials.scala.html"
+					],
+					[
+						"customer",
+						"app/views/website/customers.scala.html"
+					],
+					[
+						"lib",
+						"app/assets/stylesheets/lib.styl"
+					],
+					[
+						"navst",
+						"app/assets/javascripts/app/documents/NavState.js"
+					],
+					[
+						"textsea",
+						"app/assets/javascripts/app/documents/TextSearch.jsx"
+					],
+					[
+						"navstate",
+						"app/assets/javascripts/app/documents/NavState.js"
+					],
+					[
+						"navigation",
+						"app/assets/javascripts/app/navigation.js"
+					],
+					[
+						"maskbuild",
+						"app/assets/stylesheets/maskbuilder.styl"
+					],
+					[
+						"maskbui",
+						"app/views/maskbuilder/builder.scala.html"
+					],
+					[
+						"docun",
+						"app/assets/stylesheets/documents.styl"
+					],
+					[
+						"contex",
+						"app/assets/stylesheets/content/contextual-actions.styl"
+					],
+					[
+						"color",
+						"app/assets/stylesheets/website/colors.styl"
+					],
+					[
+						"header",
+						"app/views/editor/header.scala.html"
+					],
+					[
+						"rate",
+						"app/utils/RateLimiter.scala"
+					],
+					[
+						"appli",
+						"subprojects/wroom-ci/conf/application.conf"
+					],
+					[
+						"ratelimit",
+						"app/utils/RateLimiter.scala"
+					],
+					[
+						"wroo",
+						"subprojects/common/app/Wroom.scala"
+					],
+					[
+						"applica",
+						"conf/application.conf"
+					],
+					[
+						"application",
+						"subprojects/wroom-ci/conf/application.conf"
+					],
+					[
+						"filterjsx",
+						"app/assets/javascripts/app/documents/Filter.jsx"
+					],
+					[
+						"filter",
+						"app/assets/javascripts/app/filters.js"
+					],
+					[
+						"navsta",
+						"app/assets/javascripts/app/documents/NavState.js"
+					],
+					[
+						"applic",
+						"app/assets/javascripts/app/application.js"
+					],
+					[
+						"docu",
+						"app/assets/javascripts/app/documents.js"
+					],
+					[
+						"text",
+						"app/assets/javascripts/app/documents/TextSearch.jsx"
+					],
+					[
+						"textse",
+						"app/assets/javascripts/app/documents/TextSearch.jsx"
+					],
+					[
+						"document",
+						"app/assets/javascripts/app/documents.js"
+					],
+					[
+						"applic.js",
+						"app/assets/javascripts/app/application.js"
+					],
+					[
+						"naviga",
+						"app/assets/javascripts/app/navigation.js"
+					],
+					[
+						"appl",
+						"app/controllers/Application.scala"
+					],
+					[
+						"route",
+						"conf/routes"
+					],
+					[
+						"onbo",
+						"subprojects/common/app/models/Onboarding.scala"
+					],
+					[
+						"communic",
+						"app/assets/javascripts/app/communication.js"
+					],
+					[
+						"onboarding",
+						"app/assets/javascripts/app/onboarding.js"
+					],
+					[
+						"routes",
+						"conf/routes"
+					],
+					[
+						"communi",
+						"app/assets/javascripts/app/communication.js"
+					],
+					[
+						"on",
+						"app/assets/stylesheets/onboarding.styl"
+					],
+					[
+						"onboardin",
+						"app/assets/stylesheets/onboarding.styl"
+					],
+					[
+						"application.scala",
+						"app/controllers/Application.scala"
+					],
+					[
+						"repositore",
+						"subprojects/common/app/RepositoryRepo.scala"
+					],
+					[
+						"onboarding.sc",
+						"subprojects/common/app/models/Onboarding.scala"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 304.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 22,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/development/workspace/prismic-jskit-v4/README.md",
+					"settings":
+					{
+						"buffer_size": 4353,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/development/workspace/prismic-jskit-v4/package.json",
+					"settings":
+					{
+						"buffer_size": 1325,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/development/workspace/prismic-jskit-v4/lib/documents.js",
+					"settings":
+					{
+						"buffer_size": 2336,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/development/workspace/prismic-jskit-v4/lib/api.js",
+					"settings":
+					{
+						"buffer_size": 23770,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 117.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 471.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/development/workspace/prismic-jskit-v4"
+			],
+			"file_history":
+			[
+				"/development/workspace/wroom/conf/routes",
+				"/development/workspace/wroom/app/controllers/Common.scala",
+				"/development/workspace/wroom/app/assets/javascripts/app/utils.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/documents.js",
+				"/development/workspace/wroom/app/controllers/Application.scala",
+				"/development/workspace/wroom/app/assets/javascripts/app/filters.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/application.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/navigation.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/communication.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/documents/FilterValues.jsx",
+				"/development/workspace/wroom/subprojects/common/app/models/Onboarding.scala",
+				"/development/workspace/wroom/app/assets/javascripts/app/documents/NavState.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/editor/editor.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/documents/TextSearch.jsx",
+				"/development/workspace/wroom/app/assets/javascripts/app/documents/FilterBar.jsx",
+				"/development/workspace/wroom/app/assets/javascripts/app/documents/Filter.jsx",
+				"/development/workspace/wroom/subprojects/wroom-ci/conf/application.conf",
+				"/development/workspace/nodejs-starter/prismic-configuration.js",
+				"/development/workspace/nodejs-starter/.gitignore",
+				"/development/workspace/nodejs-starter/app.js",
+				"/development/workspace/nodejs-starter/public/javascript/vendors/onboarding.js",
+				"/development/workspace/nodejs-starter/package.json",
+				"/development/workspace/nodejs-starter/onboarding.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/onboarding.js",
+				"/development/workspace/wroom/app/assets/stylesheets/onboarding.styl"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 95.0,
+				"where_history":
+				[
+					"/development/workspace/wroom",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"scrollx",
+					"loading",
+					"height: calc(100% - 6",
+					"closeable",
+					"closable",
+					"getSelection",
+					"replacestate",
+					"reloadable",
+					"aside",
+					"media",
+					"aside",
+					"api.cache.expire",
+					"org",
+					"\"baked\"",
+					"features",
+					"rateLimits",
+					"rateLimit",
+					"value",
+					"filterbar",
+					"data('filters",
+					"navigate",
+					"NavState.asParams",
+					"newState",
+					"aspara",
+					"applyFiltersParams",
+					"avState.actions.reset",
+					"store.reset",
+					"applyFiltersParams",
+					"setFilters",
+					"setSearch",
+					"filtersChanged",
+					"navigate",
+					"Filters",
+					"unresolved address exception",
+					"seed",
+					"tototo",
+					"DEFAULT_ENDPOINT",
+					"validateOnboardingSDK",
+					"validateOnboardingCLI",
+					"})\n",
+					"btn-tem",
+					"validateOnboardingTemplate",
+					"validateOnboarding",
+					"createwri"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/development/workspace/prismic-jskit-v4"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 3,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/development/workspace/prismic-jskit-v4/README.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4353,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4353,
+										4353
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/development/workspace/prismic-jskit-v4/package.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1325,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										965,
+										965
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/development/workspace/prismic-jskit-v4/lib/documents.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2336,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1698,
+										1698
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1061.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/development/workspace/prismic-jskit-v4/lib/api.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 23770,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										10500,
+										10500
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": -0.0,
+								"translation.y": 6431.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 37.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.doc":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "1 501 285 640 502 0 0 1680 1050 ",
+			"project": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"api",
+						"lib/api.js"
+					],
+					[
+						"documen",
+						"lib/documents.js"
+					],
+					[
+						"",
+						"app/controllers/Prismic.js"
+					],
+					[
+						"pris",
+						"app/controllers/Prismic.js"
+					],
+					[
+						"layou",
+						"views/layout.pug"
+					],
+					[
+						"medias",
+						"app/assets/stylesheets/medias.styl"
+					],
+					[
+						"experim",
+						"app/assets/stylesheets/experiments.styl"
+					],
+					[
+						"masks",
+						"app/assets/stylesheets/masks.styl"
+					],
+					[
+						"document.st",
+						"app/assets/stylesheets/documents.styl"
+					],
+					[
+						"customerst",
+						"app/assets/stylesheets/web/slices/homepage/customersTestimonials.scss"
+					],
+					[
+						"testi",
+						"app/views/web/components/customersTestimonials.scala.html"
+					],
+					[
+						"customer",
+						"app/views/website/customers.scala.html"
+					],
+					[
+						"lib",
+						"app/assets/stylesheets/lib.styl"
+					],
+					[
+						"navst",
+						"app/assets/javascripts/app/documents/NavState.js"
+					],
+					[
+						"textsea",
+						"app/assets/javascripts/app/documents/TextSearch.jsx"
+					],
+					[
+						"navstate",
+						"app/assets/javascripts/app/documents/NavState.js"
+					],
+					[
+						"navigation",
+						"app/assets/javascripts/app/navigation.js"
+					],
+					[
+						"maskbuild",
+						"app/assets/stylesheets/maskbuilder.styl"
+					],
+					[
+						"maskbui",
+						"app/views/maskbuilder/builder.scala.html"
+					],
+					[
+						"docun",
+						"app/assets/stylesheets/documents.styl"
+					],
+					[
+						"contex",
+						"app/assets/stylesheets/content/contextual-actions.styl"
+					],
+					[
+						"color",
+						"app/assets/stylesheets/website/colors.styl"
+					],
+					[
+						"header",
+						"app/views/editor/header.scala.html"
+					],
+					[
+						"rate",
+						"app/utils/RateLimiter.scala"
+					],
+					[
+						"appli",
+						"subprojects/wroom-ci/conf/application.conf"
+					],
+					[
+						"ratelimit",
+						"app/utils/RateLimiter.scala"
+					],
+					[
+						"wroo",
+						"subprojects/common/app/Wroom.scala"
+					],
+					[
+						"applica",
+						"conf/application.conf"
+					],
+					[
+						"application",
+						"subprojects/wroom-ci/conf/application.conf"
+					],
+					[
+						"filterjsx",
+						"app/assets/javascripts/app/documents/Filter.jsx"
+					],
+					[
+						"filter",
+						"app/assets/javascripts/app/filters.js"
+					],
+					[
+						"navsta",
+						"app/assets/javascripts/app/documents/NavState.js"
+					],
+					[
+						"applic",
+						"app/assets/javascripts/app/application.js"
+					],
+					[
+						"docu",
+						"app/assets/javascripts/app/documents.js"
+					],
+					[
+						"text",
+						"app/assets/javascripts/app/documents/TextSearch.jsx"
+					],
+					[
+						"textse",
+						"app/assets/javascripts/app/documents/TextSearch.jsx"
+					],
+					[
+						"document",
+						"app/assets/javascripts/app/documents.js"
+					],
+					[
+						"applic.js",
+						"app/assets/javascripts/app/application.js"
+					],
+					[
+						"naviga",
+						"app/assets/javascripts/app/navigation.js"
+					],
+					[
+						"appl",
+						"app/controllers/Application.scala"
+					],
+					[
+						"route",
+						"conf/routes"
+					],
+					[
+						"onbo",
+						"subprojects/common/app/models/Onboarding.scala"
+					],
+					[
+						"communic",
+						"app/assets/javascripts/app/communication.js"
+					],
+					[
+						"onboarding",
+						"app/assets/javascripts/app/onboarding.js"
+					],
+					[
+						"routes",
+						"conf/routes"
+					],
+					[
+						"communi",
+						"app/assets/javascripts/app/communication.js"
+					],
+					[
+						"on",
+						"app/assets/stylesheets/onboarding.styl"
+					],
+					[
+						"onboardin",
+						"app/assets/stylesheets/onboarding.styl"
+					],
+					[
+						"application.scala",
+						"app/controllers/Application.scala"
+					],
+					[
+						"repositore",
+						"subprojects/common/app/RepositoryRepo.scala"
+					],
+					[
+						"onboarding.sc",
+						"subprojects/common/app/models/Onboarding.scala"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 304.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 23,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/development/workspace/prismic-cli/package.json",
+					"settings":
+					{
+						"buffer_size": 1062,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 117.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 471.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/development/workspace/prismic-cli"
+			],
+			"file_history":
+			[
+				"/development/workspace/wroom/conf/routes",
+				"/development/workspace/wroom/app/controllers/Common.scala",
+				"/development/workspace/wroom/app/assets/javascripts/app/utils.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/documents.js",
+				"/development/workspace/wroom/app/controllers/Application.scala",
+				"/development/workspace/wroom/app/assets/javascripts/app/filters.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/application.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/navigation.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/communication.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/documents/FilterValues.jsx",
+				"/development/workspace/wroom/subprojects/common/app/models/Onboarding.scala",
+				"/development/workspace/wroom/app/assets/javascripts/app/documents/NavState.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/editor/editor.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/documents/TextSearch.jsx",
+				"/development/workspace/wroom/app/assets/javascripts/app/documents/FilterBar.jsx",
+				"/development/workspace/wroom/app/assets/javascripts/app/documents/Filter.jsx",
+				"/development/workspace/wroom/subprojects/wroom-ci/conf/application.conf",
+				"/development/workspace/nodejs-starter/prismic-configuration.js",
+				"/development/workspace/nodejs-starter/.gitignore",
+				"/development/workspace/nodejs-starter/app.js",
+				"/development/workspace/nodejs-starter/public/javascript/vendors/onboarding.js",
+				"/development/workspace/nodejs-starter/package.json",
+				"/development/workspace/nodejs-starter/onboarding.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/onboarding.js",
+				"/development/workspace/wroom/app/assets/stylesheets/onboarding.styl"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 95.0,
+				"where_history":
+				[
+					"/development/workspace/wroom",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"scrollx",
+					"loading",
+					"height: calc(100% - 6",
+					"closeable",
+					"closable",
+					"getSelection",
+					"replacestate",
+					"reloadable",
+					"aside",
+					"media",
+					"aside",
+					"api.cache.expire",
+					"org",
+					"\"baked\"",
+					"features",
+					"rateLimits",
+					"rateLimit",
+					"value",
+					"filterbar",
+					"data('filters",
+					"navigate",
+					"NavState.asParams",
+					"newState",
+					"aspara",
+					"applyFiltersParams",
+					"avState.actions.reset",
+					"store.reset",
+					"applyFiltersParams",
+					"setFilters",
+					"setSearch",
+					"filtersChanged",
+					"navigate",
+					"Filters",
+					"unresolved address exception",
+					"seed",
+					"tototo",
+					"DEFAULT_ENDPOINT",
+					"validateOnboardingSDK",
+					"validateOnboardingCLI",
+					"})\n",
+					"btn-tem",
+					"validateOnboardingTemplate",
+					"validateOnboarding",
+					"createwri"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/development/workspace/prismic-cli"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/development/workspace/prismic-cli/package.json",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 1062,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										404,
+										433
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 37.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.doc":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "1 501 285 640 502 0 0 1680 1050 ",
+			"project": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"app/controllers/Prismic.js"
+					],
+					[
+						"pris",
+						"app/controllers/Prismic.js"
+					],
+					[
+						"layou",
+						"views/layout.pug"
+					],
+					[
+						"medias",
+						"app/assets/stylesheets/medias.styl"
+					],
+					[
+						"experim",
+						"app/assets/stylesheets/experiments.styl"
+					],
+					[
+						"masks",
+						"app/assets/stylesheets/masks.styl"
+					],
+					[
+						"document.st",
+						"app/assets/stylesheets/documents.styl"
+					],
+					[
+						"customerst",
+						"app/assets/stylesheets/web/slices/homepage/customersTestimonials.scss"
+					],
+					[
+						"testi",
+						"app/views/web/components/customersTestimonials.scala.html"
+					],
+					[
+						"customer",
+						"app/views/website/customers.scala.html"
+					],
+					[
+						"lib",
+						"app/assets/stylesheets/lib.styl"
+					],
+					[
+						"navst",
+						"app/assets/javascripts/app/documents/NavState.js"
+					],
+					[
+						"textsea",
+						"app/assets/javascripts/app/documents/TextSearch.jsx"
+					],
+					[
+						"navstate",
+						"app/assets/javascripts/app/documents/NavState.js"
+					],
+					[
+						"navigation",
+						"app/assets/javascripts/app/navigation.js"
+					],
+					[
+						"maskbuild",
+						"app/assets/stylesheets/maskbuilder.styl"
+					],
+					[
+						"maskbui",
+						"app/views/maskbuilder/builder.scala.html"
+					],
+					[
+						"docun",
+						"app/assets/stylesheets/documents.styl"
+					],
+					[
+						"contex",
+						"app/assets/stylesheets/content/contextual-actions.styl"
+					],
+					[
+						"color",
+						"app/assets/stylesheets/website/colors.styl"
+					],
+					[
+						"header",
+						"app/views/editor/header.scala.html"
+					],
+					[
+						"rate",
+						"app/utils/RateLimiter.scala"
+					],
+					[
+						"appli",
+						"subprojects/wroom-ci/conf/application.conf"
+					],
+					[
+						"ratelimit",
+						"app/utils/RateLimiter.scala"
+					],
+					[
+						"wroo",
+						"subprojects/common/app/Wroom.scala"
+					],
+					[
+						"applica",
+						"conf/application.conf"
+					],
+					[
+						"application",
+						"subprojects/wroom-ci/conf/application.conf"
+					],
+					[
+						"filterjsx",
+						"app/assets/javascripts/app/documents/Filter.jsx"
+					],
+					[
+						"filter",
+						"app/assets/javascripts/app/filters.js"
+					],
+					[
+						"navsta",
+						"app/assets/javascripts/app/documents/NavState.js"
+					],
+					[
+						"applic",
+						"app/assets/javascripts/app/application.js"
+					],
+					[
+						"docu",
+						"app/assets/javascripts/app/documents.js"
+					],
+					[
+						"text",
+						"app/assets/javascripts/app/documents/TextSearch.jsx"
+					],
+					[
+						"textse",
+						"app/assets/javascripts/app/documents/TextSearch.jsx"
+					],
+					[
+						"document",
+						"app/assets/javascripts/app/documents.js"
+					],
+					[
+						"applic.js",
+						"app/assets/javascripts/app/application.js"
+					],
+					[
+						"naviga",
+						"app/assets/javascripts/app/navigation.js"
+					],
+					[
+						"appl",
+						"app/controllers/Application.scala"
+					],
+					[
+						"route",
+						"conf/routes"
+					],
+					[
+						"onbo",
+						"subprojects/common/app/models/Onboarding.scala"
+					],
+					[
+						"communic",
+						"app/assets/javascripts/app/communication.js"
+					],
+					[
+						"onboarding",
+						"app/assets/javascripts/app/onboarding.js"
+					],
+					[
+						"routes",
+						"conf/routes"
+					],
+					[
+						"communi",
+						"app/assets/javascripts/app/communication.js"
+					],
+					[
+						"on",
+						"app/assets/stylesheets/onboarding.styl"
+					],
+					[
+						"onboardin",
+						"app/assets/stylesheets/onboarding.styl"
+					],
+					[
+						"application.scala",
+						"app/controllers/Application.scala"
+					],
+					[
+						"repositore",
+						"subprojects/common/app/RepositoryRepo.scala"
+					],
+					[
+						"onboarding.sc",
+						"subprojects/common/app/models/Onboarding.scala"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 304.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 24,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/development/workspace/base_project/package.json",
+					"settings":
+					{
+						"buffer_size": 1921,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/development/workspace/base_project/.eslintrc.js",
+					"settings":
+					{
+						"buffer_size": 472,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/development/workspace/base_project/app/conf/config.js",
+					"settings":
+					{
+						"buffer_size": 759,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/development/workspace/base_project/app/app.js",
+					"settings":
+					{
+						"buffer_size": 164,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/development/workspace/base_project/assets/javascripts/client.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/development/workspace/base_project/assets/stylesheets/main.sass",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "\n/**\n * Module dependencies.\n */\nvar express = require('express'),\n    favicon = require('serve-favicon'),\n    logger = require('morgan'),\n    bodyParser = require('body-parser'),\n    methodOverride = require('method-override'),\n    errorHandler = require('errorhandler'),\n    http = require('http'),\n    path = require('path');\n\nmodule.exports = function() {\n  var app = express();\n\n  // all environments\n  app.set('port', process.env.PORT || 3000);\n  app.set('views', path.join(__dirname, 'views'));\n  app.set('view engine', 'pug');\n  app.use(favicon(\"public/images/favicon.png\"));\n  app.use(logger('dev'));\n  app.use(bodyParser());\n  app.use(methodOverride());\n  app.use(express.static(path.join(__dirname, 'public')));\n\n  app.use(errorHandler());\n\n  return app;\n}();\n",
+					"file": "/development/workspace/base_project/config.js",
+					"file_size": 771,
+					"file_write_time": 131224195450000000,
+					"settings":
+					{
+						"buffer_size": 771,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "/**\n * Module dependencies.\n */\nvar Prismic = require('prismic-nodejs');\nvar app = require('./config');\nvar PORT = app.get('port');\nvar PConfig = require('./prismic-configuration');\nvar request = require('request');\n\nvar DEFAULT_ENDPOINT = 'https://your-repo-name.prismic.io/api';\n\nfunction handleError(err, req, res) {\n  if (err.status == 404) {\n    res.status(404).send(\"404 not found\");\n  } else {\n    res.status(500).send(\"Error 500: \" + err.message);\n  }\n}\n\napp.listen(PORT, function() {\n  const repoEndpoint = PConfig.apiEndpoint.replace(\"/api\", \"\");\n  request.post(repoEndpoint + '/app/settings/onboarding/run', {})\n  console.log('Point your browser to: http://localhost:' + PORT);\n});\n\n/**\n* initialize prismic context and api\n*/\napp.route('*').get((req, res, next) => {\n  res.locals.ctx = {\n    endpoint: PConfig.apiEndpoint,\n    linkResolver: PConfig.linkResolver\n  }\n  return Prismic.api(PConfig.apiEndpoint, {\n    accessToken: PConfig.accessToken,\n    req: req\n  })\n  .then((api) => {\n    req.api = api\n    next()\n  })\n  .catch((err) => handleError(err, req, res))\n})\n\n// INSERT YOUR ROUTES HERE\n\n/**\n* route with documentation to build your project with prismic\n*/\napp.get('/', function(req, res) {\n  res.redirect('/help');\n});\n\n/**\n* Prismic documentation to build your project with prismic\n*/\napp.get('/help', function(req, res) {\n  res.render('help', {\n    isConfigured : DEFAULT_ENDPOINT != PConfig.apiEndpoint,\n    repoURL: PConfig.apiEndpoint.replace(\"/api\", \"\")\n  });\n});\n\n/**\n* preconfigured prismic preview\n*/\napp.get('/preview', function(req, res) {\n  api(req).then(function(api) {\n    return Prismic.preview(api, configuration.linkResolver, req, res);\n  }).catch(function(err) {\n    handleError(err, req, res);\n  });\n});\n",
+					"file": "/development/workspace/base_project/app.js",
+					"file_size": 1745,
+					"file_write_time": 131224186870000000,
+					"settings":
+					{
+						"buffer_size": 1745,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/development/workspace/base_project/.babelrc",
+					"settings":
+					{
+						"buffer_size": 39,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/development/workspace/base_project/views/index.pug",
+					"settings":
+					{
+						"buffer_size": 52,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/development/workspace/base_project/views/layout.pug",
+					"settings":
+					{
+						"buffer_size": 687,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/development/workspace/base_project/.gitignore",
+					"settings":
+					{
+						"buffer_size": 2235,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/development/workspace/base_project/app/conf/prismic-configuration.js",
+					"settings":
+					{
+						"buffer_size": 190,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/development/workspace/base_project/app/controllers/Prismic.js",
+					"settings":
+					{
+						"buffer_size": 2133,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/development/workspace/base_project/app/utils/Error.js",
+					"settings":
+					{
+						"buffer_size": 197,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/development/workspace/base_project/dist/Router.js",
+					"settings":
+					{
+						"buffer_size": 307,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/development/workspace/base_project/app/Router.js",
+					"settings":
+					{
+						"buffer_size": 227,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/development/workspace/base_project/app/conf/routes.js",
+					"settings":
+					{
+						"buffer_size": 667,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/development/workspace/base_project/app/controllers/Website.js",
+					"settings":
+					{
+						"buffer_size": 446,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/development/workspace/base_project/README.md",
+					"settings":
+					{
+						"buffer_size": 537,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 117.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 471.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/development/workspace/base_project",
+				"/development/workspace/base_project/app",
+				"/development/workspace/base_project/app/conf",
+				"/development/workspace/base_project/app/controllers",
+				"/development/workspace/base_project/app/utils",
+				"/development/workspace/base_project/assets",
+				"/development/workspace/base_project/assets/javascripts",
+				"/development/workspace/base_project/assets/stylesheets",
+				"/development/workspace/base_project/public/javascripts",
+				"/development/workspace/base_project/public/javascripts/compiled",
+				"/development/workspace/base_project/public/stylesheets",
+				"/development/workspace/base_project/public/stylesheets/compiled"
+			],
+			"file_history":
+			[
+				"/development/workspace/wroom/conf/routes",
+				"/development/workspace/wroom/app/controllers/Common.scala",
+				"/development/workspace/wroom/app/assets/javascripts/app/utils.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/documents.js",
+				"/development/workspace/wroom/app/controllers/Application.scala",
+				"/development/workspace/wroom/app/assets/javascripts/app/filters.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/application.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/navigation.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/communication.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/documents/FilterValues.jsx",
+				"/development/workspace/wroom/subprojects/common/app/models/Onboarding.scala",
+				"/development/workspace/wroom/app/assets/javascripts/app/documents/NavState.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/editor/editor.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/documents/TextSearch.jsx",
+				"/development/workspace/wroom/app/assets/javascripts/app/documents/FilterBar.jsx",
+				"/development/workspace/wroom/app/assets/javascripts/app/documents/Filter.jsx",
+				"/development/workspace/wroom/subprojects/wroom-ci/conf/application.conf",
+				"/development/workspace/nodejs-starter/prismic-configuration.js",
+				"/development/workspace/nodejs-starter/.gitignore",
+				"/development/workspace/nodejs-starter/app.js",
+				"/development/workspace/nodejs-starter/public/javascript/vendors/onboarding.js",
+				"/development/workspace/nodejs-starter/package.json",
+				"/development/workspace/nodejs-starter/onboarding.js",
+				"/development/workspace/wroom/app/assets/javascripts/app/onboarding.js",
+				"/development/workspace/wroom/app/assets/stylesheets/onboarding.styl"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 95.0,
+				"where_history":
+				[
+					"/development/workspace/wroom",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"scrollx",
+					"loading",
+					"height: calc(100% - 6",
+					"closeable",
+					"closable",
+					"getSelection",
+					"replacestate",
+					"reloadable",
+					"aside",
+					"media",
+					"aside",
+					"api.cache.expire",
+					"org",
+					"\"baked\"",
+					"features",
+					"rateLimits",
+					"rateLimit",
+					"value",
+					"filterbar",
+					"data('filters",
+					"navigate",
+					"NavState.asParams",
+					"newState",
+					"aspara",
+					"applyFiltersParams",
+					"avState.actions.reset",
+					"store.reset",
+					"applyFiltersParams",
+					"setFilters",
+					"setSearch",
+					"filtersChanged",
+					"navigate",
+					"Filters",
+					"unresolved address exception",
+					"seed",
+					"tototo",
+					"DEFAULT_ENDPOINT",
+					"validateOnboardingSDK",
+					"validateOnboardingCLI",
+					"})\n",
+					"btn-tem",
+					"validateOnboardingTemplate",
+					"validateOnboarding",
+					"createwri"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/development/workspace/base_project"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 19,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/development/workspace/base_project/package.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1921,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1151,
+										1151
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/development/workspace/base_project/.eslintrc.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 472,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										404,
+										404
+									]
+								],
+								"settings":
+								{
+									"open_with_edit": true,
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/development/workspace/base_project/app/conf/config.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 759,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										554,
+										554
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/development/workspace/base_project/app/app.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 164,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										160,
+										160
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/development/workspace/base_project/assets/javascripts/client.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"open_with_edit": true,
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/development/workspace/base_project/assets/stylesheets/main.sass",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"open_with_edit": true,
+									"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 14,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/development/workspace/base_project/config.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 771,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										575,
+										575
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 15,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/development/workspace/base_project/app.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1745,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1044,
+										1044
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 471.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 17,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/development/workspace/base_project/.babelrc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 39,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										39,
+										39
+									]
+								],
+								"settings":
+								{
+									"open_with_edit": true,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 16,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/development/workspace/base_project/views/index.pug",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 52,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										51,
+										51
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Pug/Syntaxes/Pug.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 19,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/development/workspace/base_project/views/layout.pug",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 687,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										136,
+										136
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Pug/Syntaxes/Pug.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 13,
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/development/workspace/base_project/.gitignore",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2235,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										34,
+										34
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 12,
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"file": "/development/workspace/base_project/app/conf/prismic-configuration.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 190,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										186,
+										186
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 18,
+							"type": "text"
+						},
+						{
+							"buffer": 13,
+							"file": "/development/workspace/base_project/app/controllers/Prismic.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2133,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2046,
+										2046
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 619.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 14,
+							"file": "/development/workspace/base_project/app/utils/Error.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 197,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										184,
+										184
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 15,
+							"file": "/development/workspace/base_project/dist/Router.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 307,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										246,
+										273
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 11,
+							"type": "text"
+						},
+						{
+							"buffer": 16,
+							"file": "/development/workspace/base_project/app/Router.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 227,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										170,
+										177
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 10,
+							"type": "text"
+						},
+						{
+							"buffer": 17,
+							"file": "/development/workspace/base_project/app/conf/routes.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 667,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										507,
+										507
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 18,
+							"file": "/development/workspace/base_project/app/controllers/Website.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 446,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										263,
+										263
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 19,
+							"file": "/development/workspace/base_project/README.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 537,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										536,
+										536
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 37.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.doc":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "1 501 285 640 502 0 0 1680 1050 ",
+			"project": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"app/controllers/Prismic.js"
+					],
+					[
+						"pris",
+						"app/controllers/Prismic.js"
+					],
+					[
+						"layou",
+						"views/layout.pug"
+					],
+					[
+						"medias",
+						"app/assets/stylesheets/medias.styl"
+					],
+					[
+						"experim",
+						"app/assets/stylesheets/experiments.styl"
+					],
+					[
+						"masks",
+						"app/assets/stylesheets/masks.styl"
+					],
+					[
+						"document.st",
+						"app/assets/stylesheets/documents.styl"
+					],
+					[
+						"customerst",
+						"app/assets/stylesheets/web/slices/homepage/customersTestimonials.scss"
+					],
+					[
+						"testi",
+						"app/views/web/components/customersTestimonials.scala.html"
+					],
+					[
+						"customer",
+						"app/views/website/customers.scala.html"
+					],
+					[
+						"lib",
+						"app/assets/stylesheets/lib.styl"
+					],
+					[
+						"navst",
+						"app/assets/javascripts/app/documents/NavState.js"
+					],
+					[
+						"textsea",
+						"app/assets/javascripts/app/documents/TextSearch.jsx"
+					],
+					[
+						"navstate",
+						"app/assets/javascripts/app/documents/NavState.js"
+					],
+					[
+						"navigation",
+						"app/assets/javascripts/app/navigation.js"
+					],
+					[
+						"maskbuild",
+						"app/assets/stylesheets/maskbuilder.styl"
+					],
+					[
+						"maskbui",
+						"app/views/maskbuilder/builder.scala.html"
+					],
+					[
+						"docun",
+						"app/assets/stylesheets/documents.styl"
+					],
+					[
+						"contex",
+						"app/assets/stylesheets/content/contextual-actions.styl"
+					],
+					[
+						"color",
+						"app/assets/stylesheets/website/colors.styl"
+					],
+					[
+						"header",
+						"app/views/editor/header.scala.html"
+					],
+					[
+						"rate",
+						"app/utils/RateLimiter.scala"
+					],
+					[
+						"appli",
+						"subprojects/wroom-ci/conf/application.conf"
+					],
+					[
+						"ratelimit",
+						"app/utils/RateLimiter.scala"
+					],
+					[
+						"wroo",
+						"subprojects/common/app/Wroom.scala"
+					],
+					[
+						"applica",
+						"conf/application.conf"
+					],
+					[
+						"application",
+						"subprojects/wroom-ci/conf/application.conf"
+					],
+					[
+						"filterjsx",
+						"app/assets/javascripts/app/documents/Filter.jsx"
+					],
+					[
+						"filter",
+						"app/assets/javascripts/app/filters.js"
+					],
+					[
+						"navsta",
+						"app/assets/javascripts/app/documents/NavState.js"
+					],
+					[
+						"applic",
+						"app/assets/javascripts/app/application.js"
+					],
+					[
+						"docu",
+						"app/assets/javascripts/app/documents.js"
+					],
+					[
+						"text",
+						"app/assets/javascripts/app/documents/TextSearch.jsx"
+					],
+					[
+						"textse",
+						"app/assets/javascripts/app/documents/TextSearch.jsx"
+					],
+					[
+						"document",
+						"app/assets/javascripts/app/documents.js"
+					],
+					[
+						"applic.js",
+						"app/assets/javascripts/app/application.js"
+					],
+					[
+						"naviga",
+						"app/assets/javascripts/app/navigation.js"
+					],
+					[
+						"appl",
+						"app/controllers/Application.scala"
+					],
+					[
+						"route",
+						"conf/routes"
+					],
+					[
+						"onbo",
+						"subprojects/common/app/models/Onboarding.scala"
+					],
+					[
+						"communic",
+						"app/assets/javascripts/app/communication.js"
+					],
+					[
+						"onboarding",
+						"app/assets/javascripts/app/onboarding.js"
+					],
+					[
+						"routes",
+						"conf/routes"
+					],
+					[
+						"communi",
+						"app/assets/javascripts/app/communication.js"
+					],
+					[
+						"on",
+						"app/assets/stylesheets/onboarding.styl"
+					],
+					[
+						"onboardin",
+						"app/assets/stylesheets/onboarding.styl"
+					],
+					[
+						"application.scala",
+						"app/controllers/Application.scala"
+					],
+					[
+						"repositore",
+						"subprojects/common/app/RepositoryRepo.scala"
+					],
+					[
+						"onboarding.sc",
+						"subprojects/common/app/models/Onboarding.scala"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 304.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 21,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
